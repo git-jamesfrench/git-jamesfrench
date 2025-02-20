@@ -10,6 +10,10 @@ I'm **French 🇫🇷**, I started coding in **2023**. I’m always looking to i
 
 My favorite IDE is **Vscode** :badger:
 
+### > My projects
+- ⭐ My main project is **[Dispy](https://github.com/Dispy-inc/Dispy)**
+- 💎 I'm looking for help with **[Windows Panther](https://github.com/git-jamesfrench/WindowsPanther)**
+
 ### > Contact me
 - Email me at: **[contact@jamesfrench.fr](mailto:contact@jamesfrench.fr)** (48h response)
 - Add me on discord: **[Jamesfrench_](https://discord.gg/58FQ2dPbbD)** (12h response)
