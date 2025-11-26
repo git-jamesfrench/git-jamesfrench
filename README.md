@@ -1,14 +1,14 @@
 # <div align="center">👋 Hey!</div>
 
-My name is **James**, and I’m mainly a **Python Developer** 🐍, but I also work with **HTML/CSS** for web design. I enjoy coding and troubleshooting, and I know how to use **Linux** quite well. :shipit:  
+My name is **James**, and I’m mainly a **Python Developer** 🐍, but I also work with **Next (+ Tailwind)** for web design. I enjoy coding and troubleshooting, and I know how to use **Linux**. :shipit:  
 
 I'm **French 🇫🇷**, I started coding in **2023**. I’m always looking to improve my skills. I do design too.
 
 ### > My languages & Tools
-| 🐍 Python | 💎 HTML/CSS | 🎗️ Figma | 🖼️ PyQt5 | 🎮 Unity |
-|---|---|---|---|---|
+| 🤖 Jetpack Compose | 🐍 Python | 💎 Next (+ Tailwind) | 🎗️ Figma |
+|---|---|---|---|
 
-My favorite IDE is **Vscode** :badger:
+My favorite IDE is **VScode** :badger:
 
 ### > My projects
 - ⭐ My main project is **[Dispy](https://github.com/Dispy-inc/Dispy)**
