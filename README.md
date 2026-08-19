@@ -11,8 +11,9 @@ I'm **French 🇫🇷**, I started coding in **2023**. I’m always looking to i
 My favorite IDE is **VScode** :badger:
 
 ### > My projects
-- ⭐ My main project is **[Dispy](https://github.com/Dispy-inc/Dispy)**
-- 💎 I'm looking for help with **[Windows Panther](https://github.com/git-jamesfrench/WindowsPanther)**
+- ⭐ My main project is **[Photon Panel](https://github.com/Dispy-inc/Dispy)**
+- 💕 I'm learning with **[Fluent Calculator](https://github.com/git-jamesfrench/FluentCalculator)**
+- 💎 I'm looking for help with **[Lightcord](https://github.com/Lightcord-py/Lightcord)**
 
 ### > Contact me
 - Email me at: **[contact@jamesfrench.fr](mailto:contact@jamesfrench.fr)** (48h response)
