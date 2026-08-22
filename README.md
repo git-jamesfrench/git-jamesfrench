@@ -11,7 +11,7 @@ I'm **French 🇫🇷**, I started coding in **2023**. I’m always looking to i
 My favorite IDE is **VScode** :badger:
 
 ### > My projects
-- ⭐ My main project is **[Photon Panel](https://github.com/Dispy-inc/Dispy)**
+- ⭐ My main project is **[Photon Panel](https://github.com/PhotonProjects/Photon-Panel)**
 - 💕 I'm learning with **[Fluent Calculator](https://github.com/git-jamesfrench/FluentCalculator)**
 - 💎 I'm looking for help with **[Lightcord](https://github.com/Lightcord-py/Lightcord)**
 
